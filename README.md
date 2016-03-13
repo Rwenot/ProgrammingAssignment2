@@ -1,3 +1,7 @@
+### the following comes from our instructor, and explains the programming
+### assignment, along with how we should submit it through github
+
+
 ### Introduction
 
 This second programming assignment will require you to write an R
